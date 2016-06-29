@@ -5,8 +5,8 @@
 2. Setup the necessary users and their passwords with
 
 ```
-$ sudo adduser gladminds
-$ sudo passwd gladminds
+$ sudo adduser USERNAME
+$ sudo passwd USERNAME
 ```
 
 3. Edit /etc/ssh/sshd_config setting
